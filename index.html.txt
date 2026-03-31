@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Product Manuals</h1>
+<ul>
+    <li><a href="C6%20manual.pdf">C6 Instructions (PDF)</a></li>
+    <!-- 将来上传了新说明书，可以按照这行的格式继续添加 -->
+</ul>
+</body>
+</html>
